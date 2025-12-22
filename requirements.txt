@@ -1,0 +1,9 @@
+# Speech to Text Requirements
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+
+# Optional: For offline Whisper transcription
+# openai-whisper>=20231117
+
+# Optional: For offline Sphinx transcription  
+# pocketsphinx>=5.0.0
